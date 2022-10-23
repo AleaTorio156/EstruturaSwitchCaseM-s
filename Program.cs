@@ -12,6 +12,7 @@ namespace SwitchCase
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("");
             Console.WriteLine("Para começar, observe a tabela e digite o número que represente o mês desejado.");
+            Console.WriteLine("Bora Bill!");
             Console.WriteLine("");
             Console.WriteLine("_________");
             Console.WriteLine("|  Janeiro    |  (1)  |");
